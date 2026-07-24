@@ -1,0 +1,13 @@
+{
+  "name": "mc-bedrock-bot",
+  "version": "1.0.0",
+  "description": "Minecraft Bedrock Console Chat Bridge Bot for Codespaces",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.30.0",
+    "chalk": "^4.1.2"
+  }
+}

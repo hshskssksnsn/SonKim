@@ -1,0 +1,5 @@
+{
+  "server_ip": "donutsmp.net",
+  "server_port": 19132,
+  "reconnect_delay_ms": 5000
+}
